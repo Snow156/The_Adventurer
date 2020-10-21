@@ -1,0 +1,16 @@
+Get the magic system working |
+-Fix the part where it doesn't have any points |
+-Add more spell types |
+-For Heal, just heal half of your mag points |
+-For Damage, when a monster attacks you, make it deal a 1/4 of its own damage against itself |
+-For Defense, Take off a bit of damage when you get hit (1/4 of shield value) |
+
+Make Defense actually work |
+-Subtract the amount of damage being recieved by your defense. |
+
+Fix the loot system. You should only have a chance at getting loot for the amount of monsters you killed. |
+
+Make the combat faster. |
+
+Add a readme. |
+
